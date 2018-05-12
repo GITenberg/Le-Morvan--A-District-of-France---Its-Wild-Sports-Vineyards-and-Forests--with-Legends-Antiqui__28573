@@ -1,0 +1,33 @@
+_repo: Le-Morvan--A-District-of-France---Its-Wild-Sports-Vineyards-and-Forests--with-Legends-Antiqui__28573
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jesse, William
+    alias: Jesse, Captain
+    birthdate: 1809
+    deathdate: 1871
+    gutenberg_agent_id: '33423'
+    url: http://www.gutenberg.org/2009/agents/33423
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crignelle, Henri de
+    gutenberg_agent_id: '33422'
+    url: http://www.gutenberg.org/2009/agents/33422
+description: ''
+gutenberg_issued: '2009-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Morvan (France)'
+- !lcc 'DC'
+title: Le Morvan, [A District of France,] Its Wild Sports, Vineyards and Forests;
+  with Legends, Antiquities, Rural and Local Sketches
+url: http://www.gutenberg.org/ebooks/28573
